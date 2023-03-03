@@ -4,3 +4,8 @@ node_modules/
 *.tsbuildinfo
 .npm
 .eslintcache
+__test__/
+docs/
+image/
+src/
+template/
